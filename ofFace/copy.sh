@@ -1,0 +1,1 @@
+cp bin ~/Documents/electron-face -a
